@@ -33,5 +33,4 @@ node
     Regards,
     Sanjeev.''', subject: 'Build Over....', to: 'sanjus929@gmail.com'
   }
- }
 }
